@@ -1,0 +1,3 @@
+a. ue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+b.pertenece a Microsoft
+c. si hay
