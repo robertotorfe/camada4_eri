@@ -6,3 +6,4 @@ R/: Pertenece actualmente a Microfost, para tener un mayor control sobre el Open
 
 3¿Hay otra forma que no sea la terminal para trabajar con GitHub?
 R/: Sí la hay, se puede trabajar con la aplicación de escritorio.
+
