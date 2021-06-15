@@ -2,4 +2,7 @@
 Linux fue creado por Linus Tolvalds, tambien creador de Linux, con el proposito de llevar un registro de los cambios los archivos incluyendo coordirna el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de codigo.
 
 ¿A quién pertenece actualmente Github y por qué?
- 
+ Github le pertenece actualmente Microsoft. Microsoft compro Github por 75.000 con intencion de acercarse mas al sofware libre-
+
+ ¿Hay otra forma que no sea la terminal para trabajar con Github?
+  Sí. Instalando la app de Github en el computador se puede trabajar con Github mediante el uso del teclado y ratón.
