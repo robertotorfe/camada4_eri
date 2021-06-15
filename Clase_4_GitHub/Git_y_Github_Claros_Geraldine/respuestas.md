@@ -12,3 +12,5 @@ El _4 de junio de 2018 Microsoft_ compró GitHub por la cantidad de _7500 millon
 ## c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
 
 Si, existe una gran variedad de interfaces de usuario con distintas capacidades.Git hub cuentas con una interfaz grafica para trabajar sin usar comandos en la terminal de codigo, tambien herramientas como SmartGit, GithubDesktop, Kraken tiene la posibilidad de mostrat el flujo de trabajo conun proyecto de manera grafica.
+
+### Geraldine Claros
