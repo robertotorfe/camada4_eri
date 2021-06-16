@@ -8,4 +8,4 @@ Microsoft reconoció y se rindió ante la realidad de que la combinación de Git
 Por las vicisitudes financieras por las que pasaba GitHub, y debido a que se estaba volviendo troncal para el negocio deldesarrollo, Microsoft decide comprarlo para ganarle a sus competidores Google u Oracle.
 
 c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
-No
+
