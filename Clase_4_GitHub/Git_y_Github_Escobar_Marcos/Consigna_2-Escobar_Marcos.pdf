@@ -1,0 +1,39 @@
+Crear un archivo
+$touch <nombre_archivo>
+
+Clonar un repo existente:
+$git clone <url_del_repositorio>
+
+Crear un Branch:
+$git branch <nombre_branch>
+
+Iniciar un repositorio:
+$git init
+
+Ver el estado de los archivos en git:
+$git status
+
+Modificar la descripción de un commit:
+$git --ammend
+
+Crear una carpeta:
+$mkdir <nombre_o_ruta_del_directorio>
+
+Eliminar una carpeta:
+$rmdir <nombre_o_ruta_del_directorio>
+
+Mover una carpeta o archivo:
+$mv <nombre_archivo>
+
+Añadir archivos a Git:
+$git add . (todos los archivos en el directorio que no están añadidos)
+$git add <nombre_archivo> (agrega un archivo o directorio específico)
+
+Generar un commit: 
+$git commit -m "escribe tu commit entre las comillas"
+
+Actualizar repo:
+$git pull
+
+Subir commit
+$git push
