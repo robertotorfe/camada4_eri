@@ -1,0 +1,10 @@
+CREAR
+
+Clonar un repositorio existente: 
+    $ git clone https://github.com/usuario/nombrerepo
+
+Crear un nuevo repositorio local:
+    $git init
+
+Mostras todos los commits ( desde mas nuevo a viejo)
+    $git log    
