@@ -1,5 +1,0 @@
-¿Quién inventó el sistema de control de versión Git y por qué?
-Linux fue creado por Linus Tolvalds, tambien creador de Linux, con el proposito de llevar un registro de los cambios los archivos incluyendo coordirna el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de codigo.
-
-¿A quién pertenece actualmente Github y por qué?
- 
