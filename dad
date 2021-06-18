@@ -1,0 +1,346 @@
+[33mcommit 00b32353540d8ed29f61633d55889f33c80ad1e4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mariano Finucci <agostinafinucci@gmail.com>
+Date:   Sun Jun 13 21:40:50 2021 -0300
+
+     mi carpeta Finucci
+
+[33mcommit 59fa945fe497a5cd33cf33c7995ac93e0c7e38d4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/finucci_agostina[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/Galvis_Johan[m[33m, [m[1;32mfinucci_agostina[m[33m)[m
+Author: johangab95 <johangabernal@gmail.com>
+Date:   Sun Jun 13 18:34:21 2021 -0500
+
+    Agrego Recordatorio
+
+[33mcommit 872357ac91b62c535e67c9d93813e1ccdd0ed777[m
+Merge: 4b5b142 535b3db
+Author: johangab95 <johangabernal@gmail.com>
+Date:   Sun Jun 13 17:53:51 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri into Galvis_Johan
+
+[33mcommit 4b5b1427815040aaa10c075ea34febbab74c290d[m
+Author: johangab95 <johangabernal@gmail.com>
+Date:   Sun Jun 13 17:51:17 2021 -0500
+
+    commit mochila
+
+[33mcommit 535b3db36a8d55966580589022414679c3a01fb8[m[33m ([m[1;31morigin/Pasijoff_Ariel[m[33m)[m
+Author: arielpasijoff <85424634+arielpasijoff@users.noreply.github.com>
+Date:   Sun Jun 13 19:24:39 2021 -0300
+
+    Primer commit mochila
+
+[33mcommit 67e1d7de7e3e32c07cb6907683996db5faaa587a[m
+Merge: 7193721 97fe562
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sun Jun 13 15:18:40 2021 -0500
+
+    Merge branch 'canate_yair'
+
+[33mcommit 97fe562c36121aec172304473d860e52d651f67a[m[33m ([m[1;31morigin/canate_yair[m[33m)[m
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sun Jun 13 15:13:12 2021 -0500
+
+    agregando archivo recordatorio con Informacion
+
+[33mcommit ae09e9a8549e86a945db915fec35313044c33890[m
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sun Jun 13 14:30:18 2021 -0500
+
+    agregando archivo recordatorio
+
+[33mcommit 7193721b5dacd88c0ed41646164606e6b624bf0c[m
+Merge: 908f168 555097d
+Author: BlackAnaboth <BLACKANABOTH@yandex.com>
+Date:   Sun Jun 13 12:58:50 2021 -0500
+
+    Merge branch 'Gaitan_Jacobo'
+
+[33mcommit 555097d67224bf8fd8c4a2a8d134ff0e18d2b92b[m[33m ([m[1;31morigin/Gaitan_Jacobo[m[33m)[m
+Author: BlackAnaboth <BLACKANABOTH@yandex.com>
+Date:   Sun Jun 13 12:56:12 2021 -0500
+
+    pdf CheatSheet Bash-Git-GitHub
+
+[33mcommit 908f168da48e33b66366ec7b81dede41dbc7a09b[m
+Merge: 8a5b3a3 c0aa340
+Author: BlackAnaboth <BLACKANABOTH@yandex.com>
+Date:   Sun Jun 13 12:48:08 2021 -0500
+
+    Merge branch 'Gaitan_Jacobo'
+
+[33mcommit c0aa340a42b64ada5c1c41fda7a7daa3871147d3[m
+Author: BlackAnaboth <BLACKANABOTH@yandex.com>
+Date:   Sun Jun 13 12:41:55 2021 -0500
+
+    Respuestas Git GitHub Jacobo
+
+[33mcommit 8a5b3a3c7130ed73dc4bd36a1874b25695875a47[m
+Merge: 9c3d8f1 b829d9b
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 13:34:08 2021 -0300
+
+    Merge branch 'Garrido_Cinthia' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit b829d9b43e07674781c1005bc2fcf440fe04bca4[m[33m ([m[1;31morigin/Garrido_Cinthia[m[33m)[m
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 13:33:07 2021 -0300
+
+    agregue comandos
+
+[33mcommit 00542619d38008100712bccac2ffd6bad45ed76b[m
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 13:10:58 2021 -0300
+
+    cambio a la carpeta que corresponde
+
+[33mcommit 9c3d8f119d5b71a04ac7d5567b2b10e07c1d32f0[m
+Merge: 7205933 3d04ff6
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 13:02:09 2021 -0300
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 7205933d4fa03b723030c6d8441cd5d8158ecbfa[m
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 13:01:56 2021 -0300
+
+    enmiendo error
+
+[33mcommit 3d04ff62a63f680285942a1288711f890af12f9e[m
+Merge: e93fde7 6766129
+Author: Drina23 <drinarincon4@gmail.com>
+Date:   Sun Jun 13 13:00:06 2021 -0300
+
+    Merge branch 'Rincon_Drina'
+
+[33mcommit e93fde77e598211805570aa25655808fabf63856[m
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 12:57:47 2021 -0300
+
+    mi primer commit
+
+[33mcommit 67661297888aafb6bee9342b110b3414b5effb7a[m[33m ([m[1;31morigin/Rincon_Drina[m[33m)[m
+Author: Drina23 <drinarincon4@gmail.com>
+Date:   Sun Jun 13 12:57:38 2021 -0300
+
+    Subiendo cheatsheet
+
+[33mcommit d0a1d0f88a5a6a5076abdf4ac96377e2a49543b9[m
+Merge: 0f8a788 55fa63f
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sun Jun 13 12:45:29 2021 -0300
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 55fa63fc98e55406967e7056a485850968d99302[m
+Merge: 03143af 1b859dc
+Author: Drina23 <drinarincon4@gmail.com>
+Date:   Sun Jun 13 11:32:21 2021 -0300
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 1b859dc43129ee4b5a083c4f578f8a935ab302bf[m
+Merge: 0c69bf2 ca0713d
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sat Jun 12 23:37:11 2021 -0500
+
+    Merge branch 'canate_yair'
+
+[33mcommit ca0713d4065894e478efa9321ea2044685832217[m
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sat Jun 12 23:35:10 2021 -0500
+
+    agregado correctamenteÂ
+
+[33mcommit 0c69bf22a4887bb027568b5cb47d4ca92fb03446[m
+Merge: d20c802 e2b14c5
+Author: yaircs <yaircs16@gmail.com>
+Date:   Sat Jun 12 23:33:02 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 0f8a788461fffee0548042410762ef19ab422bb6[m
+Author: cingarrido <cinthiagarrido24@gmail.com>
+Date:   Sat Jun 12 19:08:38 2021 -0300
+
+    agregue el archivo de preguntas.txt
+
+[33mcommit 03143afec0d97408c8694842709abd8810bc52b0[m
+Author: Drina23 <drinarincon4@gmail.com>
+Date:   Sat Jun 12 16:15:32 2021 -0300
+
+    movi la carpeta git a clase 6
+
+[33mcommit 79fb0f662a5fe246982ca486adf79b1c4e9f78a4[m
+Author: Drina23 <drinarincon4@gmail.com>
+Date:   Sat Jun 12 15:54:53 2021 -0300
+
+    agregue info
+
+[33mcommit e2b14c5a27b8cba74a7d975452af42b80929bcc4[m
+Merge: e417e5d 33f38ad
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 15:38:00 2021 -0300
+
+    Merge branch 'Vittori_Julieta'
+
+[33mcommit 33f38ad1b74e393b2a735509a7425f15e5e4bb70[m
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 15:32:30 2021 -0300
+
+    ultimo commit
+
+[33mcommit e417e5d37ff5fbd040d8a6d096b103136bbb1278[m
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 12:30:12 2021 -0300
+
+    Agragando contenido de Julieta
+
+[33mcommit f0882193f911202ec4686f66b376a8a8ca016161[m
+Merge: 23f7de9 bab21c9
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 12:28:01 2021 -0300
+
+    Merge branch 'Vittori_Julieta'
+
+[33mcommit bab21c9994113a487647b8faf84bc8a462bfeefb[m
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 12:23:15 2021 -0300
+
+    Agragando archivos de Julieta
+
+[33mcommit 23f7de966f85dc30ecfe7262623f38410831f97d[m[33m ([m[1;31morigin/Navarro_Cristian[m[33m)[m
+Author: cristian navarro leon <cristiannl.0117@gmail.com>
+Date:   Fri Jun 11 22:31:17 2021 -0500
+
+    añadiendo cheatsheet
+
+[33mcommit 2bba2073f55433d1d1986f8146fd72e1a2af0567[m
+Author: Julieta-Vittori <julieta.vittori@gmail.com>
+Date:   Sat Jun 12 00:23:47 2021 -0300
+
+    Primer commit del cuestionario clase4
+
+[33mcommit 2c3641d7e25dce125c7602071264154fbe365d6b[m
+Author: cristian navarro leon <cristiannl.0117@gmail.com>
+Date:   Fri Jun 11 22:18:31 2021 -0500
+
+    consigna 1
+
+[33mcommit d20c802daea309d51dd5739214009d43cf45517b[m
+Merge: 74b4431 a6ff47f
+Author: yaircs <yaircs16@gmail.com>
+Date:   Fri Jun 11 22:16:26 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 74b4431a26f3fc159e1120f53ec60ca0cae51e03[m
+Author: yaircs <yaircs16@gmail.com>
+Date:   Fri Jun 11 22:13:00 2021 -0500
+
+    archvos de yair cañate
+
+[33mcommit a6ff47f0488bef5aab7c0d259939e7badc8be88a[m
+Merge: 1da697c 656af98
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 21:12:22 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 1da697c0e8947811671a0248eba64cda3a079ae2[m
+Merge: 2a15a62 91ee88c
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 21:11:35 2021 -0500
+
+    Merge branch 'Forero_Jeisson'
+
+[33mcommit 656af98648f12c3583aa1e03d3f24cbaf0f6d424[m
+Merge: 98f8c92 2c43adc
+Author: marcosescobar <marcosescobar.ar@gmail.com>
+Date:   Fri Jun 11 23:00:17 2021 -0300
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 91ee88cf63581ad31d1289d88dab1abf4a24b70a[m[33m ([m[1;31morigin/Forero_Jeisson[m[33m)[m
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:59:17 2021 -0500
+
+    agregando pdf
+
+[33mcommit 2c43adc8de374b1e3928fbd371823c36f84dd6f5[m
+Merge: a041917 413af27
+Author: JQLaverde <jqlaverde@gmail.com>
+Date:   Fri Jun 11 20:58:55 2021 -0500
+
+    Merge branch 'Quiroz_Jonathan' into main
+
+[33mcommit 413af27eafa88123136b21c6b109d3f7a9ad8c86[m[33m ([m[1;31morigin/Quiroz_Jonathan[m[33m)[m
+Author: JQLaverde <jqlaverde@gmail.com>
+Date:   Fri Jun 11 20:58:26 2021 -0500
+
+    [jql] Comandos resumen pdf
+
+[33mcommit 98f8c9261ec5bb01edb261ac6a09e72f92085de9[m
+Merge: 8bb2888 a041917
+Author: marcosescobar <marcosescobar.ar@gmail.com>
+Date:   Fri Jun 11 22:55:46 2021 -0300
+
+    Merge branch 'main' into Escobar_Marcos
+
+[33mcommit 8bb28880127b5a84d49e5595650b4d758004611e[m
+Author: marcosescobar <marcosescobar.ar@gmail.com>
+Date:   Fri Jun 11 22:47:36 2021 -0300
+
+    Subiendo las actividades 1 y 2 de la clase de cierre.
+
+[33mcommit 2a15a62c2ec45e7a9b70e92816aaf931bd2bbcea[m
+Merge: e65247b 21f3f87
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:16:26 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit a041917f5ec642723fdd49f2c83a3b7dcd4d59be[m
+Merge: e65247b 21f3f87
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:16:26 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit e65247b0ede0398f867b6336c38c4bffce8d6fbd[m
+Merge: 6d0601c 9b7e00b
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:11:04 2021 -0500
+
+    Subiendo archivo con respuestas.
+
+[33mcommit 21f3f87822d502cf94486e4375cd8af23ffaddcd[m
+Merge: 6d0601c 9b7e00b
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:11:04 2021 -0500
+
+    Merge branch 'main' of https://github.com/Erikatovar/camada4_eri
+
+[33mcommit 6d0601c5c9cd8cffc12ddcb89aa0085d4d7097f4[m
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 20:05:59 2021 -0500
+
+    subeindo carpeta con archivo y respuestas
+
+[33mcommit 9b7e00b388f8f75e37254c501cee7f7b95733c9a[m
+Author: JQLaverde <jqlaverde@gmail.com>
+Date:   Fri Jun 11 20:01:42 2021 -0500
+
+    [jql] Github preguntas y respuestas
+
+[33mcommit 995950cb2d7045f02aaa5cdf4ec8878331ef89d7[m
+Author: jeissonetworks <jeissonetworks@gmail.com>
+Date:   Fri Jun 11 19:55:13 2021 -0500
+
+    Subiendo carpeta y archivo con respuestas
+
+[33mcommit e02ecdd2c26b6a4ae0b61e59a0425ca2ad048b9f[m[33m ([m[1;31morigin/Garcia_Diego[m[33m, [m[1;31morigin/Diaz_Ismael[m[33m)[m
+Author: hualli <robertotorfe@gmail.com>
+Date:   Mon Jun 7 16:53:25 2021 -0300
+
+    first commit
