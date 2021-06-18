@@ -1,0 +1,13 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+
+El sistema de control de versión Git fue creado por Linus Torvalds, lo hizo pensando en controlar las versiones de codigo que se generaban de un codigo fuente y poder hacer mas eficiente, confiable y compatible la labor entre desarrolladores mas a lahora de trabajar en equipos llevando una trazabilidad y permitiendo restaurar codigo a versiones anteriores.
+
+b. ¿A quién pertenece actualmente Github y por qué?
+
+Github le pertenece actualmente a Microsoft ya que en año de 2018 pago mas de 2000 millones de dolares, el motivo de Microsoft aparte de usar a Github para su desarrollo, fue su inmenso crecimiento, se convirtio en algo tan poderoso que incluso hizo que Goolge cerrara su plataforma Google Code para posteriormente usar Github
+
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Si, al instalar la aplicacion de Github para el pc, se puede usar la interfaz grafica de esta aplicacion, nos dirigimos a la parte superior izquierda cliqueando en el "+", luego en la opcion clone escogemos el repo (antes creado en github) y le damos en el boton clonar, seguido este paso escogemos el destino (por defecto al instalar la aplicacion esta crea una carpeta en Documentos de nombre GitHub donde se pueden guradar todos los repos). Despues es solo ingresar a la carpeta GitHub (o la que se escogio para contener el repo) abir la carpeta del repo y en esta pegar los archivos que se quieren incluir a este, donde automaticamente se actualizan todos los archivos, se le da click en la opcion de Commit y luego en la parte superior derecha a la opcion Publish para dar comienzo con la sincronizacion en linea
+
+
