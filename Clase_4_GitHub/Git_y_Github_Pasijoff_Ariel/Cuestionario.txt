@@ -1,5 +1,0 @@
-1) Git fue inventado por Linu Torvalds. Fue desarrollado para tener un sistema de versionamiento.
-
-2)Githube pertene a Microsoft. Fue comprada por microsoft para tener acceso a la comunidad mas grande de desarrollo.
-
-3) No que yo sepa.
