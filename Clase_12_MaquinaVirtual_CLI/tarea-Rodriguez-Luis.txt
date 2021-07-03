@@ -1,0 +1,7 @@
+* apt-get sirve para instalar un paquete o programa
+
+* su -> Es un comando usado en linux para acceder como administrador o root y poder hacer cambios
+       en el sistema operativo
+
+* Para nada me resulto familiar, no poder usar un mouse y tampoco ver los cambios al momento 
+  de hacerlos es poco familiar, pero tampoco tan complejo
