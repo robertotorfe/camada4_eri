@@ -1,0 +1,17 @@
+- lo que acabamos de hacer fue ingresar a la maquina virtual con el usuario root, luego 
+comprobamos que tuvieramos coneion a internet con el comando ping, despues instalamos git y 
+comprobamos la version de git, luego clonamos el repositorio de la mochila para poder subir 
+la actividad.
+
+
+-"apt-get" sirve para gestionar y descargar los paquetes descargables de los repositorios a 
+travez de la termianl.
+
+
+- "su" sireve para indicarle al sistema que queremos ejectuar comandos con privilegios de 
+super usuario o administrador.
+
+
+- es familiar, ya que es entrar a un sistema operativo dentro de el que utilizamos todos los 
+dias. distinto ya que es solo linea de comandos.
+
