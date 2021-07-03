@@ -1,2 +1,21 @@
-test
+
+1.DESCRIBIR QUE SE ACABA DE REALIZAR
+RTA: En esta actividad, primero se confirmó la conexión a internet mediante el comando ping a la
+dircción entregada, al ser exitoso el ping, procedemos a instalar git y verificar su instalación
+imprimiendo su versión y finalmente clonamos el repositorio de la clase.
+
+2.DESCRIBIR PARA QUE SIRVE "APT-GET"
+RTA: APT-GET es un comando de Linux que me permite instalar y obtener información de un paquete
+específicamente llamada por su nombre, funciona con el nombre específico del paquete y solo puede 
+instalar ficheros desde una fuente.
+
+3.DESCRIBIR PARA QUE SIRVE SU
+RTA: SU es un comando que nos permite identificarnos en el sistema operativo como Súper usuarios
+o administradores del sistema, esto nos entrega todos los permisos sobre el sistema, otro comando
+conocido es root.
+
+4.LES RESULTÓ FAMILIAR ESTA FORMA DE CONECTARSE AL EQUIPO?
+RTA: Es un poco complicado porque uno está costumbrado a la interfaz gráfica y al pasar a un CLI
+dificulta saber uno que está haciendo. Es un tema enriquecedor.
+
 
