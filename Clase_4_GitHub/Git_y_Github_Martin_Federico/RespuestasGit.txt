@@ -1,3 +1,0 @@
-a. Lo creó Linus Torvalds para poder realizar el mantenimiento del kernel de Linux
-b. Github pertenece a Microsoft ya que recientemente realizo la compra.
-c. Se puede trabajar con la interfaz grafica que provee Github, se puede descargar en instalar desde su página.
