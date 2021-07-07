@@ -1,0 +1,7 @@
+
+Respuesta 1: Instalamos git en la maquina virtual, y realizamos la clonacion del repositorio remoto, creamos un archivo para el mismo
+Respuesta 2: Lo usamos para agregar paquetes al sistema.
+respuesta 3: Sirve para ingresal al rol de administrador. 
+Respuesta 4: No es tan familiar ya que siempre usamos entornos graficos. 
+
+
