@@ -1,0 +1,15 @@
+Pregunta 1: Instalamos git para proceder con la descarga de la mochila (Repositorio).
+Clonamos el repository remoto y ahora generamos un nuevo archivo para el mismo.
+
+Pregunta 2: Para adquirir software.
+
+Pregunta 3: Para posicionarnos en rol de administrador.
+
+Pregunta 4: No nos resulto 100% novedoso.
+
+Participantes:
+ Evelyn Saravia
+ Nallive Trujillo
+ Ismael Diaz Ardila
+ Cristian Cely
+ Ariel Pasijoff
