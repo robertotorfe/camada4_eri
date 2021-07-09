@@ -10,4 +10,5 @@ Red domiciliaria:
 	* 5 smartphones 
 	* Notebook
 5- Hace falta algún repetidor wifi o PLC? 
-  Si, ya que la casa cuenta con doble piso, sería mejor que coloquemos un repetidor en el segundo piso para que la señal llegue mejor a todos los dispositivos del domicilio.
+	Si, ya que la casa cuenta con doble piso, sería mejor que coloquemos un repetidor en el segundo piso 
+	para que la señal llegue mejor a todos los dispositivos del domicilio.
