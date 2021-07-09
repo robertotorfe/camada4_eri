@@ -1,0 +1,12 @@
+1) Describa con sus palabras lo que acaban de hacer.
+Lo que hicimos fue confirmar la conexión a internet mediante el comando ping. Luego instalar git en la terminal, corroborar sus instalacion mediante la consulta de la version, clonar el repositorio, crear un archivo y resonder las preguntas p
+lanteadas.
+
+2)Describir para que sirve "apt-get"
+"apt-get" sirve para instalar programas en linux, borrarlos, actualizar los repositorios y actualizar el sistema desde la línea de comandos.
+
+3)Describir para que sirve "su"
+Permite usar el interprete de comandosde otro usuario sin necesidad de cerrar la sesion actual.
+
+4) ¿Les resulto familiar esta forma de conectarse a un equipo?
+Nos resulto familiar que algunos comandos de la terminal son similares a la terminal de Windows, pero con dificultad ya que estamos acostumbrados a la interfaz grafica de windows y a su terminal.
