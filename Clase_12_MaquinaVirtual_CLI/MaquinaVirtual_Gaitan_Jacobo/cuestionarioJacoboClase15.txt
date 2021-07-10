@@ -1,0 +1,20 @@
+1. Describan con sus palabras lo que acaban de hacer.
+	Primero se verifico la conexion a internet por medio del comando "ping -c 2 www.digitalhouse.com.ar"
+	Segundo se ingreso a super usuario con el comando su, y posteriormente digitando la contraseña de superusuario
+	Tercero se instala GIT con el comando "apt-get git", al instalarse se verica con el comando "git --version"
+	Cuarto se genera conexion con GitHub utilizando los comandos 'git config --global user.name "usuarioGitHub"' y 'git config --global user.email "E-mailGitHub"'
+	Quinto se clona el repositorio localmente con el comando "git clone LinkDelRepo"
+	Sexto se verifica la rama main y se crea en este nuevo dispositivo la rama propia con el comando "git branch ramaNueva" y lueggo se ingresa a ella con "git checkout ramaNueva" 
+	Septimo se ubica la carpeta de la actividad y dentro de ella se crea carpeta propia de actividad con el comando "mkdir"
+	Octavo se crea este documento con el comando "touch" y luego se igresa con el comando "nano" para contestar el cuestionario
+
+2. Describir para que sirve "apt-get".
+	Este comando busca e instala paquetes llamandolos de internet.
+
+3. Describir para que sirve "su".
+	Se utilisa para obtener permisos Root y hacer operaciones administrativas como SuperUser.
+
+4. ¿Les resulto familiar esta forma de conectarse a un equipo?
+	Si, es muy familiar a la forma que hemos estado trabajando en Git Bash, de hecho es muy agradable trabajar así.
+
+
