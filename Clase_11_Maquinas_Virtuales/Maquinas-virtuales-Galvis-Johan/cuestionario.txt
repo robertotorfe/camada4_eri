@@ -1,0 +1,5 @@
+1)Clonar repositorio de Github, enlazarme con la rama, crear carpeta y archivo
+2)apt-get sirve para buscar y obtener paquetes.
+3)su sirve para acceder al root que es el superusuario o administrador del sistema.
+4)Si es la misma que se usa en cualquier sistema operativo con shell bash.
+

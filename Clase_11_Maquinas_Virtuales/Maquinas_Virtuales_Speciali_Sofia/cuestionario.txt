@@ -1,0 +1,12 @@
+1. Qué acabamos de hacer:
+Lo que hicimos fue instalar Git desde la máquina virtual. Luego clonamos el repositorio de la camada subido a Github, y desde allí, en la carpeta correspondiente, creamos el archivo que estamos editando ahora con nano. 
+
+2. Para qué sirve apt-get:
+Este comando nos permite instalar programas en la máquina virtual. También nos informa cuales tenemos y nos permite actualizarlos. 
+
+3. Para qué sirve su:
+El comando su nos permite pararnos desde la root y realizar operaciones administrativas. 
+
+4. ¿Les resultó familiar esta forma de conectarse a un equipo?
+Para nada familiar jaja, pero cada vez se va entendiendo un poco mejor todo. 
+

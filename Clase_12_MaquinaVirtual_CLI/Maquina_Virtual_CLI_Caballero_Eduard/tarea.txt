@@ -1,0 +1,5 @@
+1. Desde la consola de comandos comprobamos la conexion a internet, luego se instalo git y finalmente se clono el repositorio de la mochila
+2. Es un gestor de descarga, actualizacion e instalacion de paquetes
+3. Sirve para acceder como super usuario a la consola
+4. Como ya habiamos usado la terminal de debian y la terminal de git bash entonces nos resulto familiar
+
