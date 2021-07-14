@@ -1,0 +1,7 @@
+¿La IP pública y privada de qué clase son?
+IPV4
+
+¿Qué información puedo obtener de la Mascara de red?
+El fabricante del dispositivo de conexión, en este caso "Intel".
+
+Las mascaras perteneces al /24 y puedo conectar 254 host.
