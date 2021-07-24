@@ -1,0 +1,5 @@
+aprendi a usar gitbash como centro de comandos para controlar la computadora sin necesidad
+de usar la interfaz grafica, ni el mouse; incluso tengo la gran habilidad de editar
+archivos de excel, word, txt, etc.. sin tener que abrirlos.
+
+aprendi a navegar en vscode, unos comandos, atajos y a integrar gitbash

@@ -1,0 +1,4 @@
+Los servidores son un conjunto de computadoras con gran capacidad de almacenamiento y altas tasas de 
+transferencia de informacion, los cuales sirven de alojamiento para las aplicaciones y 
+paginas web, que al momento de hacer una solicitud dan la respuesta que se espera en base a 
+los datos e informacion almacenada

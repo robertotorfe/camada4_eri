@@ -1,0 +1,2 @@
+El software y hardware son la parte fundamental para el funcionamiento de un computador, 
+los cuales nos permiten la interaccion con el mismo y desarrollar su utilidad
