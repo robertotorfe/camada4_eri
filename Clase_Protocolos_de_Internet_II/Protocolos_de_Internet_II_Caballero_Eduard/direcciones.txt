@@ -1,0 +1,1 @@
+Al solcializar las ip pulicas pertenecen a la clase B, son ipv4, las ip privadas estan en clase C, tambien ipv4. los fabricantes de la mac Liteon Technology Corporation, Intel, MSI, ASUS TEK. Las mascaras perteneces al /24 y puedo conectar 254 host.
