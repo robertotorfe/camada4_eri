@@ -1,0 +1,35 @@
+Git / GitHub
+CREAR
+    Crear un nuevo repositorio local: git init
+    Configurar el usuario del repositorio: git config user.name "" / git config user.email ""
+ AGREGAR AL REPOSITORIO 
+    Agregar a git un archivo (a staging area): git add "nombre archivo" / git add . (agrega todos los archivo)
+    Hacer un commit (agregar al repositorio local): git commit -m "mensaje de commit"
+CHEQUEAR
+    Ver el estado del repositorio: git status
+    Ver los commits realizados hasta el momento: git log / git log --online (acorta el nombre- los números)
+ELIMINAR
+    Eliminar un repositorio local: rm .rf .git
+CONECTAR GIT REMOTO
+    Conectar el repositorio local con uno creado en GitHub: git remote add origin "link"
+    Verificar el paso anterior: git remote -v
+SUBIR CAMBIOS A REPOSITORIO REMOTO
+	Enviar los archivos del repositorio local al remoto: git push origin main
+	Si es un proyecto colaborativo, siempre previamente debemos hacer un git pull origin main para bajar los cambios que realizaron otros colegas y así no generar problemas. Resolver conflictos en el repositorio local. 
+BAJAR PROYECTOS DESDE GITHUB
+	Primera vez que bajo el proyecto en la computadora: git clone “URL único del repositorio”. Se crea una carpeta en el repositorio local, y hay que entrar a ella ya que allí van a estar todos los archivos. 
+	Ya existe el proyecto y hay que actualizarlo: git pull origin main. 
+CREAR NUEVA RAMA Y CAMBIAR NOMBRE
+	Para crear una nueva rama: git branch “nombre nueva rama”. 
+	cambiar nombre: git branch -m "nombre viejo" "nombre nuevo" /git branch -M "nombre nuevo”
+	Eliminar rama: git branch -d “nombre de la rama”. Git evita que se elimine la rama si tiene cambios que no fueron fusionados a la rama principal. 
+	Eliminar rama con cambios forzadamente: git branch -D “”. 
+MOVERSE ENTRE RAMAS
+	Git checkout “nombre de la rama a la que quiero ir”. Git permite movernos a otra rama si no hay cambios (si está todo commiteado, o sino hay que eliminarlos). 
+SUBIT RAMA A GITHUB
+	Para subirla a la nube: git push origin "nombre de la rama".
+	Para bajar los cambios de la rama: git pull origin "nombre de la rama".
+PARA FUSIONAR CAMBIOS CON LA RAMA PRINCIPAL
+	Primero hay que ir a la rama que quiero que sea afectada, a la que le agrego commits. 
+	Sobre ella: git merge "nombre de la rama en las que están los commits que quiero agregar". 
+

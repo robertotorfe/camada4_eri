@@ -1,0 +1,14 @@
+- Describan con sus palabras lo que acaban de hacer 
+Iniciamos instalando git para posteriormente clonar el repositorio de la camada correspondiente. Luego creamos el archivo cuestionario.txt a través del comando touch y lo editamos con el comando nano.
+
+- Describir para qué sirve "apt-get"
+Sirve para obtener el paquete de instalación. 
+
+- Describir para qué sirve "su"
+Se utiliza para poder ingresar a modo superusuario y así ejecutar comandos de instalación, por ejemplo.
+
+- ¿Les resultó familiar esta forma de conectarse a un equipo?
+En general, no.  Acostumbramos usar interfaz gráfica pero podría ser similar a git bash. 
+ 
+
+
